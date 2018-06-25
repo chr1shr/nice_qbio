@@ -1,7 +1,7 @@
 import numpy as np
 
 # Population size
-N=2000
+N=1000
 
 # Maximum number of generations
 Tmax=1000
