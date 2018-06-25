@@ -1,0 +1,12 @@
+Success stories in Quantitative Biology (SSQB) (Nice, France, Jun 25-29)
+Example codes for summer school exercises
+=========================================
+SSQB is a summer school that is being held in Nice, France in summer 2018
+that covers a variety of topics in computational and quantitative biology.
+The summer school combines both research talks and practical lectures and
+introductions to different topics in the field.
+
+This repository contains example codes for the solution of the homework
+problems, and is split into topics by each invited speaker:
+
+walczak - Wright-Fisher example presented by Alexandra Walczak (ENS)
